@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/codalyze/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-bcd2150655a2803c9237e2b5e3257dce11cd23f8.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes-e7463fc529c3e724aacaed686d901ef2cfa1462d.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-80c37dbdad8c4344393ada5a5b721963ec9b0226.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/classes-6e70dc5701085b2aef941542d261dc1cfcf9cd91.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/classes-7d63f12662e6eb04d06b193c611e669f32cdf267.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-3bb323a6e19e6345dcca48ad8cdc11a4f198d5df.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.23.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="60e1da2c40a60ff372052eba4278e0cb252a3f3a">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-8ce9ea5ee57338eaa699aa05b53d380dd96e5bb2.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/classes-83f927302d1fbfc542bddac651beee26bb49f0c3.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-44ee2b0ac321b6e6e173ab1549d530c33b01a31a.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-1680891d280dfdfe439921e140d928b364037257.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-5ba84ca93d95e77b8adc82b8a79c56b1845a40ba.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.23.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02f58fb4e333f5f258eedc4d1bc66032059aaf70">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/classes-b9847ad7b4964cb74818ec6b50abe456867a5dbd.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes-e1a126efddd38ce792bc92361cf6b13c8547695f.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes-afd66c29f414cd023d97252fe29ae882bb6c6601.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes-069822ed083e5486ec79af7c343132152e172c77.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-b5778eaf8a84740961f685f676617548fd16bb5a.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes-369d398d6d71768720c7f98fb19536afd5031be6.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes-48904d7114fe27ef00f5c25f613298c3169178c1.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes-c84c011f9ff23b1cf61a51e3eb959c9811c9e825.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-1e8622c8fb09ea72e62ff832ca7e59f7b5e230f4.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/classes-51b842d15c9dded9a95c21c6f2576b0f9c006816.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/classes-f244d0511e6e57a082618840ad3e523ba7a1df16.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-7c71e8c0273be93b89b5aa2d39d2f321eed2f0e3.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/classes-a2effbb2e4ea59071251bef141b650b6de9b1a4d.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-4a856a2f521226e0c2eedbc4ca589933aefd3c62.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-9bfcebeffa70800cfe9e9dec624228d14095f3c1.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-dc6f529d5016b50f9ce6e36100ba56053245ef4a.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.23.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02f58fb4e333f5f258eedc4d1bc66032059aaf70">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes-525b0107c56256daccb455d9f351a1738e73366c.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes-c388ce9ab27e3b4b111fb52570910f532f2b2daf.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.23.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="60e1da2c40a60ff372052eba4278e0cb252a3f3a">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-c97cf42b6e2ec1ddf2bca213127627b952d53aee.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/codalyze/dev/react-native-redux-boilerplate/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-717f10f71ba2ac316084e22d5c99eb08273faf65.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/classes-26e5286399f85714bd5f7e8847dd618e6a737eb2.jar" />
+    </item>
+    <item
+        jar="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/codalyze/dev/rn-blogappify/android/app/build/intermediates/pre-dexed/debug/classes-c9b305914e62b91917c9da7058c686b14f4fc2b9.jar" />
+    </item>
+
+</items>
